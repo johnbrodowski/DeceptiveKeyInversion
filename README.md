@@ -2,7 +2,7 @@
 
 **A Single-Secret Encryption Protocol Using Layered Key Derivation**
 John Brodowski
-March 11, 2026
+Rev 5. March 11, 2026
 
 ---
 
